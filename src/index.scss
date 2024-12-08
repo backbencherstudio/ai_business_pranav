@@ -1,4 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+/* Import Font */
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400");
+
+@import url('https://fonts.cdnfonts.com/css/helvetica-neue-55');
+
 *{
   margin: 0;
   padding: 0;
 }
+
+
+// // Flipper container styling
+// .flipper-container {
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+//   height: 100vh;
+//   background-color: #f7fafc;
+//   perspective: 1000px;
+// }
+
+// // Flipper card styling
+// .flipper-card {
+//   width: 16rem; // Adjust as per your requirement
+//   height: 24rem; // Adjust as per your requirement
+//   position: relative;
+//   transform-style: preserve-3d;
+//   transition: transform 0.5s;
+// }
+
+// // Flipping effect when the card is flipped
+// .flipper-card.flipped {
+//   transform: rotateY(180deg);
+// }
+
+// // Front side of the card
+// .flipper-front, .flipper-back {
+//   position: absolute;
+//   top: 0;
+//   left: 0;
+//   width: 100%;
+//   height: 100%;
+//   backface-visibility: hidden;
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+// }
+
+// // Front content styling
+// .flipper-front {
+//   background-color: white;
+//   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+//   border-radius: 0.5rem;
+// }
+
+// .flipper-back {
+//   background-color: #2d3748;
+//   color: white;
+//   transform: rotateY(180deg);
+//   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+//   border-radius: 0.5rem;
+// }
+
+// // Common content styling
+// .flipper-content {
+//   text-align: center;
+//   padding: 1rem;
+// }
+
+// .title {
+//   font-size: 1.25rem;
+//   font-weight: 600;
+//   margin-bottom: 0.5rem;
+// }
+
+// .text {
+//   font-size: 1rem;
+//   color: #4a5568;
+//   margin-bottom: 1rem;
+// }
+
+// .button {
+//   padding: 0.5rem 1rem;
+//   background-color: #3182ce;
+//   color: white;
+//   border: none;
+//   border-radius: 0.375rem;
+//   cursor: pointer;
+//   transition: background-color 0.3s;
+// }
+
+// .flip-button:hover {
+//   background-color: #2b6cb0;
+// }
+  
